@@ -1,0 +1,15 @@
+{
+  "name": "cinema",
+  "version": "1.0.0",
+  "main": "cinema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
